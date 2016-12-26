@@ -1,0 +1,2 @@
+# FileTransmitDemo_Android
+多台android仪器间进行socket通信
