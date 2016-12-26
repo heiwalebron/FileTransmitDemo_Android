@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nurse_array">
+        <item>护理室1</item>
+        <item>护理室2</item>
+        <item>护理室3</item>
+
+    </string-array>
+</resources>
